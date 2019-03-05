@@ -103,5 +103,5 @@ def lottery(num_colors, num_bperc, filename):
         winner[u] = str(winner[u])
     print(" ".join(winner))
 
-lottery(3,3,"lotteryinput")
+lottery(4,4,"lotteryinput")
 
