@@ -1,3 +1,5 @@
+# Garrett Brenner is a stud and total GitHub wizard
+
 def lottery(num_colors, num_bperc, filename):
     file_obj = open(filename, "r")
 
